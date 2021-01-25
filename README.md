@@ -1,4 +1,4 @@
-## Please DO NOT FORK this repo. Clone anad make an independent repo instead.
+## Please DO NOT FORK this repo. Clone and make an independent repo instead.
 
 # Challenge
 
