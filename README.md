@@ -1,3 +1,5 @@
+## Please DO NOT FORK this repo. Clone anad make an independent repo instead.
+
 # Challenge
 
 At Predata, we monitor what is happening on the internet. To do so, we track the
