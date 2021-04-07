@@ -14,7 +14,7 @@ const selectData = state => state.chart.data;
  * }>
  * @param languages Array<{name: string, displayed: bool}>
  *
- * Return: { language: string, views: number }
+ * Return: Array<{ language: string, views: number }>
  */
 export const groupByLanguage = createSelector(
   [selectData, getSelectedLanguages],
